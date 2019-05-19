@@ -74,30 +74,39 @@
         }
       }
     </script>
-
     <style>
       body {
         font-family: sans-serif;
+        font-size: 18px;
+        line-height: 1.5em;
+        color: #2b2b2b;
         box-sizing: border-box;
         margin: 0;
-        padding: 3rem;
         display: flex;
         flex-direction: column;
         justify-content: center;
-        height: 100vh;
+        min-height: 100vh;
+      }
+
+      div {
+        max-width: 45rem;
+        margin: 0 auto;
+        padding: 3rem;
       }
     </style>
     <title>PWA boilerplate</title>
   </head>
   <body>
-    <p>
-      Heyoooo, I am a web app. If you're on an android phone there should be a
-      prompt to install me on your homescreen.
-    </p>
-    <p>
-      If you save the app to your home screen and you're offline you should see
-      a message that you're offline and need to connect to the internet. That is
-      implemented with a service worker.
-    </p>
+    <div>
+      <p>
+        Hi there 👋, thanks for checking out my PWA template! If you're on an
+        android phone there should be a prompt to install me on your homescreen.
+      </p>
+      <p>
+        If you save the app to your home screen and you're offline you should
+        see a message that you're offline and need to connect to the internet.
+        That is implemented with a simple service worker.
+      </p>
+    </div>
   </body>
 </html>
