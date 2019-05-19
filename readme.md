@@ -2,7 +2,7 @@
 
 This repo will contain boilerplate code that can be used as a reference or cloned to build a simple PWA (progressive web app).
 
-## Testing it on a device
+## Testing it on a device using GitHub pages
 
 Explanation here for how to use GitHub pages to test it out on your own device.
 
