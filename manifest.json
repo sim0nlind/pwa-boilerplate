@@ -1,0 +1,24 @@
+{
+  "dir": "ltr",
+  "lang": "en",
+  "short_name": "App name",
+  "name": "App name",
+  "description": "App description here",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "pwa/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "pwa/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "index.html",
+  "theme_color": "#FFF",
+  "background_color": "#006CFA",
+  "display": "standalone"
+}
