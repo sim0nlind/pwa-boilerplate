@@ -1,6 +1,6 @@
 # Introduction
 
-This repo will contain boilerplate code that can be used as a reference or cloned to build a simple PWA (progressive web app).
+This repo contains boilerplate code that can be used as a reference or cloned to build a simple PWA (progressive web app).
 
 ## Testing it on a device using GitHub pages
 
